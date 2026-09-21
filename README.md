@@ -33,7 +33,6 @@ This website allows users to view food items, search for foods, select categorie
 
 ## Project Files
 - index.html
-- admin.html
 
 ## How to Run
 1. Download or clone the project.
@@ -44,6 +43,19 @@ This website allows users to view food items, search for foods, select categorie
 
 ## Project Type
 Web Development Project
+
+## Author
+Ilavarasi Kumar
+
+
+
+
+
+
+
+
+
+
 
 ## Author
 Mahalakshmi
